@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "blog_1",
+            "driver": "MySQL",
+            "group": "blog",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "blog",
+            "password": "password",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
